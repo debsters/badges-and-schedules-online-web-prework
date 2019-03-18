@@ -21,7 +21,3 @@ end
   badges.each {|badge| puts badge}
   rooms.each {|assignment| puts assignment}
 end
-
-
-
-
